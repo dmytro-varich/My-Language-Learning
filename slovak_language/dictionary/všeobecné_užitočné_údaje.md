@@ -48,16 +48,16 @@
 | – moju priateľku                     | – мою подругу                            |
 | – môjho muža                         | – мого чоловіка                          |
 | – moju ženu                          | – мою дружину                            |
-| **Dovoľte mi predstaviť sa, som...** | **Дозвольте мені представитися, я...**   |
-| **Volám sa...**                      | **Мене звати...**                        |
-| **Moje meno je...**                  | **Моє ім'я...**                          |
-| **Ako sa voláte?**                   | **Як вас звати?**                        |
-| **Aké je vaše meno?**                | **Яке ваше ім'я?**                       |
-| **Moje priezvisko...**               | **Моє прізвище...**                      |
-| **Teší ma**                          | **Дуже приємно**                         |
-| **Rád som sa s vami zoznámil**       | **Радий з вами познайомитися**           |
-| **Mám dovolenku**                    | **У мене відпустка**                      |
-| **Som na služobnej ceste**           | **Я у відрядженні**                      |
+| **Dovoľte mi predstaviť sa, som...** | Дозвольте мені представитися, я...   |
+| **Volám sa...**                      | Мене звати...                     |
+| **Moje meno je...**                  | Моє ім'я...                         |
+| **Ako sa voláte?**                   | Як вас звати?                        |
+| **Aké je vaše meno?**                | Яке ваше ім'я?                      |
+| **Moje priezvisko...**               | Моє прізвище...                     |
+| **Teší ma**                          | Дуже приємно                     |
+| **Rád som sa s vami zoznámil**       | Радий з вами познайомитися           |
+| **Mám dovolenku**                    | У мене відпустка                      |
+| **Som na služobnej ceste**           | Я у відрядженні                     |
 | **Pricestoval som...**               | **Я приїхав...**                         |
 | – sám/sama                           | – сам/сама                               |
 | – s manželkou/s manželom             | – з дружиною/з чоловіком                 |
@@ -73,3 +73,38 @@
 | – uvidieť...                         | – побачити...                            |
 | – navštíviť priateľov                | – відвідати друзів                       |
 
+# Stretnutie / Зустріч
+| Словацький                                 | Український |
+| ------------------------------------------ | ----------- |
+| **Aké príjemné prekvapenie**               | Яка приємна несподіванка            |
+| **Koho vidím**                             | Кого я бачу            |
+| **Aké neočakované stretnutie**             | Яка несподівана зустріч            |
+| **Ako dávno sme sa nevideli**              | Як давно ми не бачилися            |
+| **Sto rokov sme sa nevideli**              | Сто років ми не бачилися            |
+| **Rád vás vidím**                          | Радий вас бачити            |
+| **Tak často sme vás spomínali**            | Ми так часто вас згадували            |
+| **Ako sa majú vaši blízki?**                | Як поживають ваші близькі?            |
+| **Ako sa má rodičia?**                      | Як батьки?            |
+| **Ako sa má žena?**                       | Як дружина?            |
+| **Ako sa má manžel?**                       | Як чоловік?           |
+| **Ako sa majú deti?**                       | Як діти?            |
+| **Ako zdravie?**                            | Як здоров'я?             |
+| **Čo je nové?**                             | Що нового?            |
+| **Nič nového**                             | Нічого нового           |
+| **Všetko po starom**                       | Все по-старому           |
+| **Nič zaujímavé**                          | Нічого цікавого            |
+| **Ako sa máš (máte)?**                     | Як у тебе (вас) справи?            |
+| **Ako sa darí?**                           | Як успіхи?            |
+| **Ďakujem, dobre**                         | Дякую, все добре            |
+| **Nastojí to za nič**                      | Нічого це не коштує            |
+| **Dávno som nevidel...**                   | Я давно не бачив...             |
+| **Priďte k nám, keď budete môcť**          | Заходьте до нас, коли зможете            |
+| **Budeme veľmi radi**                      | Ми будемо дуже раді            |
+| **Zajtra večer budem...**                  | **Завтра ввечері я буду...**             |
+| – doma                                     | - дома            |
+| – v hoteli                                 | - в готелі            |
+| **Trochu sa poprechádzame**                | Давайте трошки прогуляємося            |
+| **Dúfam, že sa skoro uvidíme**             | Надіюсь, що скоро побачимося            |
+| **Kde a kedy sa stretneme?**               | Де і коли ми зустрінемося?            |
+| **Zavolajte mi zajtra. Môj telefón je...** | Передзвоніть мені завтра. Мій телефон...            |
+| **Mám novú adresu. Zapíšte si ju...**      | У мене нова адреса. Запишіть...            |
