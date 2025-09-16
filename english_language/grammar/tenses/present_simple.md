@@ -1,27 +1,79 @@
 # Present Simple
 
-<img width="2500" height="3500" alt="image" src="https://github.com/user-attachments/assets/d6401439-b394-4fe9-828c-a0ab9c9b2173" />
+<img width="2500" height="3500" alt="image" src="https://github.com/user-attachments/assets/bcef61e2-6a64-46a4-a812-d7cf93577946" />
 
 
-The simple present tense plays an important role in the English language. If you want to talk about an action happening right now, you will use the present simple tense. This tense is common in English and has its own grammar rules. Knowing these rules helps you speak clearly.
+Це **теперешній простий час** в англійській мові, який використовується для опису регулярних дій, звичок, загальних фактів та розкладів. Це один із найчастіше вживаних часів, який допомагає говорити про те, що відбувається постійно або є правдою в будь-який момент.
 
-In English, the **simple present tense** belongs to the verb forms of the present tense. You typically use the simple present tense for these cases:
+## Структура
 
-- Expressing facts, general truths, and common-sense ideas.
-- Stating habits, customs, and events that happen regularly.
-- Describing future plans and events.
-- Telling jokes, stories, and describing sporting events in real-time.
+## Використання
 
-> One thing the simple present tense does not do is describe action a **happening right now**. 
+### Загальні ствердження
+**Present Simple** використовується для вираження певного факту або інформації, що не зв'язана з певним часовим проміжком, а є актуальними загалом. Часто це чиїсь звички або вподобання.
+  
+  1. _He likes to be in the focus of attention._ – Йому подобається бути в центрі уваги.
+  2. _Do you prefer red wine or white wine?_ – Ви віддаєте перевагу червоному або білому вину?
+  3. _What do you think about online dating?_ – Що ви думаєте про знайомство в інтернеті?
 
-## Structure
+### Загальновідомі факти
+Present Simple використовується для опису загальновідомих істин, наукових фактів, явищ природи, того, що за думкою мовця завжди є незмінним.
 
-## Examples
+1. _The Earth revolves around the Sun._ – Земля обертається навколо Сонця.
+2. _Show consists of water._ – Сніг складається з води.
+3. _At what temperature does water freeze?_ – За якою температурою замерзає вода?
 
-## Usage
+### Дії, що регулярно повторюються
+**Present Simple** використовуюється для вираження дій, що регулярно відбуваються або часто повторюються. Часто це звички або щоденний розклад людини.
+1. _I wake up at 6:15 a.m._ – Я прокидаюсь о 6:15 ранку (регулярно, кожного дня).
+2. _He runs 10 kilometers every morning._ – Він пробігає 10 км кожного ранку.
+3. _When does she usually come here?_ – Коли вона звичайно приходить додому?
 
-## Time expressions
+### Розклад та домовленності
+**Present Simple** використовується для вираження розкладу чогось (потягів, автобусів, телепрограм тощо), а також певної чіткої домовленності про зустріч (побачення, збориЮ візит до лікаря), навіть якщо мається на увазі виконання дії в майбутньому часі.
 
+1. _The train leaves at 7 o'clock._ – Потяг відправляється о сьомій годині.
+2. _Let's meet under the big tree_. – Давай зустрінемося під великим деревом.
+3. _He has a meeting with the doctor on two hours._ – В нього зустріч з лікарем через дві години.
+4. _Is the next flight at 9 o'clock tommorow morning?_ – Наступний літак вилітає завтра о дев'ятій годині ранку?
+
+### Інструкції
+Present Simple використовується в інструкціях, вказівках, рецептах тощо. В цьому випадку Present Simple має відтінок наказового способу.
+
+1. _Push the button to turn on the TV._ – Натисни на кнопку, щоб увімкнути телевізор.
+2. _The water is deep here, so don't fall in!_ – Тут глибоко, тому не впади у воду!
+3. _Use a capital letter at the beginning of names._ – Використовуйте заголовну літеру на початку імен.
+4. _Take one chicken breast fillet and gratinate it at 200 degress Centigrade._ – Візьміть одне куряче філе та запікайте його до рум'яної скоринки при 200 градусах за Цельсієм.
+
+## Маркери часу
+**Present Simple** може вживатися з певними словами та виразами, що вказують як часто відбувається або не відбувається певна дія.
+
+`always` – завжди<br>
+`often` – часто<br>
+`usually` – звичайно<br>
+`regularly` – постійно, регулярно<br>
+
+`from time to time` – час від часу<br>
+`sometimes` – інколи<br>
+`seldom` – зрідка, подеколи<br>
+`rarely` – рідко<br>
+`never` – ніколи<br>
+
+`every day` – кожного дня, щодня, кожний день<br>
+`every week` – кожного тижня, щотижня, кожний тиждень<br>
+`every month` – кожного місяця, щомісяця, кожний місяць<br>
+`every year` – кожного року, щороку, кожний рік<br>
+
+`at the weekend` – на вихідних<br>
+`at weekends` – по вихідним<br>
+`at 7 o'clock` – о 7-й годнині (в розкладах)<br>
+
+`twice a week` – два рази (двічі) на тиждень<br>
+`three times a week` – три рази (тричі) на тиждень<br>
+`four times a month` – чотири рази на місяць<br>
+
+`on Mondays` – щопонеділка<br>
+`on Sundays` – щонеділі<br>
 
 
 
